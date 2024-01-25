@@ -41,9 +41,9 @@ function CabinTable() {
       <TableHeader role="row">
         <div></div>
         <div>Cabin</div>
-        <div>Cpacity</div>
+        <div>Capacity</div>
         <div>Price</div>
-        <div>Disocunt</div>
+        <div>Discount</div>
         <div></div>
       </TableHeader>
       {cabins.map((cabin) => (
